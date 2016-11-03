@@ -22,9 +22,8 @@ screen lua bot.lua
 
 </pre>
 <h1>چنل ما</h1>
-<a href="telegram.me/beyondteam"><h3>beyond</h3></a>
+<a href="https://telegram.me/pluginlua"><h3>pluginlua</h3></a>
 <h1>خز کننده</h1>
-<a href="telegram.me/CleverGuy"><h3>CleverGuy</h3></a>
 
 سوالی بود در خدمتم
 موفق باشید
